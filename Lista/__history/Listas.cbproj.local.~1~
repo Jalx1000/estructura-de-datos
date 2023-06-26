@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/24 04:36:15.920,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/24 04:36:15.929,=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/24 04:36:24.059,C:\Users\jalej\Documents\RAD\Main.cpp=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/24 04:38:57.818,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/24 04:39:06.273,C:\Users\jalej\Documents\RAD\VLista.h=C:\Users\jalej\Documents\RAD\Unit1.h</Transaction>
+    <Transaction>2023/06/24 04:39:06.273,C:\Users\jalej\Documents\RAD\VLista.cpp=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/24 04:51:31.872,C:\Users\jalej\Documents\RAD\Lista\VLista.h=C:\Users\jalej\Documents\RAD\VLista.h</Transaction>
+    <Transaction>2023/06/24 04:51:31.872,C:\Users\jalej\Documents\RAD\Lista\VLista.cpp=C:\Users\jalej\Documents\RAD\VLista.cpp</Transaction>
+    <Transaction>2023/06/24 04:51:48.359,C:\Users\jalej\Documents\RAD\Lista\ListasPCH1.h=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/24 04:51:48.379,C:\Users\jalej\Documents\RAD\Lista\Listas.cbproj=C:\Users\jalej\Documents\RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/06/24 04:51:48.379,C:\Users\jalej\Documents\RAD\Lista\Main.cpp=C:\Users\jalej\Documents\RAD\Main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

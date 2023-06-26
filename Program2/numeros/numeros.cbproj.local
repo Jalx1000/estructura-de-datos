@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/04 10:01:39.000.852,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/05/04 10:01:39.000.760,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/04 10:18:52.000.177,C:\Users\jalej\Documents\RAD\Unit1.dfm=C:\Users\jalej\Documents\RAD\Program2\numeros\Unit1.dfm</Transaction>
+    <Transaction>2023/05/04 10:18:52.000.177,C:\Users\jalej\Documents\RAD\Unit1.h=C:\Users\jalej\Documents\RAD\Program2\numeros\Unit1.h</Transaction>
+    <Transaction>2023/05/04 10:18:52.000.208,C:\Users\jalej\Documents\RAD\Project1.cbproj=C:\Users\jalej\Documents\RAD\Program2\numeros\numeros.cbproj</Transaction>
+    <Transaction>2023/05/04 10:18:52.000.177,C:\Users\jalej\Documents\RAD\Unit1.cpp=C:\Users\jalej\Documents\RAD\Program2\numeros\Unit1.cpp</Transaction>
+    <Transaction>2023/05/04 10:18:52.000.161,C:\Users\jalej\Documents\RAD\Project1PCH1.h=C:\Users\jalej\Documents\RAD\Program2\numeros\numerosPCH1.h</Transaction>
+    <Transaction>2023/05/04 10:19:00.000.789,C:\Users\jalej\Documents\RAD\Program2\numeros\Unit1.dfm=C:\Users\jalej\Documents\RAD\Program2\numeros\Unumeros.dfm</Transaction>
+    <Transaction>2023/05/04 10:19:00.000.789,C:\Users\jalej\Documents\RAD\Program2\numeros\Unit1.h=C:\Users\jalej\Documents\RAD\Program2\numeros\Unumeros.h</Transaction>
+    <Transaction>2023/05/04 10:19:00.000.789,C:\Users\jalej\Documents\RAD\Program2\numeros\Unit1.cpp=C:\Users\jalej\Documents\RAD\Program2\numeros\Unumeros.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

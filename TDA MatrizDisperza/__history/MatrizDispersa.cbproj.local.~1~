@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/11 20:17:57.786,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/11 20:17:57.786,=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/11 21:47:28.485,=C:\Users\jalej\Documents\RAD\Unit1.pas</Transaction>
+    <Transaction>2023/06/11 21:48:37.056,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/11 21:48:58.006,C:\Users\jalej\Documents\RAD\UMatrizV.cpp=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/11 21:48:58.006,C:\Users\jalej\Documents\RAD\UMatrizV.h=C:\Users\jalej\Documents\RAD\Unit1.h</Transaction>
+    <Transaction>2023/06/11 22:26:19.591,C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\MatrizDispersaPCH1.h=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/11 22:26:19.656,C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\File1.cpp=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/11 22:26:19.671,C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\UMatrizV.h=C:\Users\jalej\Documents\RAD\UMatrizV.h</Transaction>
+    <Transaction>2023/06/11 22:26:19.671,C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\UMatrizV.cpp=C:\Users\jalej\Documents\RAD\UMatrizV.cpp</Transaction>
+    <Transaction>2023/06/11 22:26:19.677,C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\MatrizDispersa.cbproj=C:\Users\jalej\Documents\RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/06/11 22:26:37.808,C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\Main.cpp=C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\File1.cpp</Transaction>
+    <Transaction>2023/06/11 22:26:39.563,C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\MatrizDispersa.cbproj=C:\Users\jalej\Documents\RAD\TDA MatrizDisperza\MatrizDispersa.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

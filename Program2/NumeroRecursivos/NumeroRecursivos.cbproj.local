@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/04 23:00:35.000.657,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/04 23:00:35.000.685,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/05/04 23:08:15.000.486,C:\Users\jalej\Documents\RAD\Unit1.h=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unit1.h</Transaction>
+    <Transaction>2023/05/04 23:08:15.000.512,C:\Users\jalej\Documents\RAD\Project1.cbproj=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\NumeroRecursivos.cbproj</Transaction>
+    <Transaction>2023/05/04 23:08:15.000.486,C:\Users\jalej\Documents\RAD\Unit1.dfm=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unit1.dfm</Transaction>
+    <Transaction>2023/05/04 23:08:15.000.464,C:\Users\jalej\Documents\RAD\Project1PCH1.h=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\NumeroRecursivosPCH1.h</Transaction>
+    <Transaction>2023/05/04 23:08:15.000.486,C:\Users\jalej\Documents\RAD\Unit1.cpp=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unit1.cpp</Transaction>
+    <Transaction>2023/05/04 23:08:23.000.828,C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unit1.cpp=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unumeros.cpp</Transaction>
+    <Transaction>2023/05/04 23:08:23.000.828,C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unit1.h=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unumeros.h</Transaction>
+    <Transaction>2023/05/04 23:08:23.000.828,C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unit1.dfm=C:\Users\jalej\Documents\RAD\Program2\NumeroRecursivos\Unumeros.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

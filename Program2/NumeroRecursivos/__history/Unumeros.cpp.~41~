@@ -1,0 +1,47 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unumeros.h"
+//#include "iostream"
+//#include "string"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+byte MayorD(Cardinal x)
+{byte m;
+	if(x==0){
+	 m = x;
+	}else{
+	ShowMessage(IntToStr(m)+"");
+	 m = MayorD(x/10);
+	 if(x%10>m){
+		m=x;
+	 }
+	}
+	return m;
+}
+
+int Dstr(String x){
+	  return StrToInt(x);
+}
+//
+//int Dint(Cardinal x){
+//	return IntToStr(x);
+//};
+
+
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+	Edit2->Text = MayorD(Dstr(Edit1->Text));
+}
+//---------------------------------------------------------------------------

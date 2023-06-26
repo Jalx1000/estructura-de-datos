@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/22 18:50:20.890,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/22 18:50:20.906,=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/22 18:51:14.739,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/22 18:51:27.977,C:\Users\jalej\Documents\RAD\UMatriz.cpp=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/22 18:51:27.977,C:\Users\jalej\Documents\RAD\UMatriz.h=C:\Users\jalej\Documents\RAD\Unit1.h</Transaction>
+    <Transaction>2023/06/22 18:59:51.187,C:\Users\jalej\Documents\RAD\TDAMatriz\UMatriz.cpp=C:\Users\jalej\Documents\RAD\UMatriz.cpp</Transaction>
+    <Transaction>2023/06/22 18:59:51.187,C:\Users\jalej\Documents\RAD\TDAMatriz\UMatriz.h=C:\Users\jalej\Documents\RAD\UMatriz.h</Transaction>
+    <Transaction>2023/06/22 19:00:05.116,C:\Users\jalej\Documents\RAD\Main.cpp=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/22 19:00:36.359,C:\Users\jalej\Documents\RAD\TDAMatriz\TDAMatrizPCH1.h=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/22 19:00:36.484,C:\Users\jalej\Documents\RAD\TDAMatriz\TDAMatriz.cbproj=C:\Users\jalej\Documents\RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/06/22 19:00:36.484,C:\Users\jalej\Documents\RAD\TDAMatriz\Main.cpp=C:\Users\jalej\Documents\RAD\Main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

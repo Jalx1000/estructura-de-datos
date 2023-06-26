@@ -1,0 +1,20 @@
+//---------------------------------------------------------------------------
+
+#ifndef UListaH
+#define UListaH
+//---------------------------------------------------------------------------
+struct Nodo{
+	int elemento;
+	Nodo *sig;
+};
+
+Nodo *Direccion;
+
+class LLista{
+	private:
+	  Direccion Ptr_Elementos;
+	  int longitud;
+	public:
+	  Lista();
+};
+#endif
