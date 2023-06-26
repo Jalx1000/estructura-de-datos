@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/26 18:30:32.901,=C:\Users\jalej\Documents\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/26 18:30:32.909,=C:\Users\jalej\Documents\File1.cpp</Transaction>
+    <Transaction>2023/06/26 18:30:43.954,C:\Users\jalej\Documents\Main.cpp=C:\Users\jalej\Documents\File1.cpp</Transaction>
+    <Transaction>2023/06/26 18:31:19.910,=C:\Users\jalej\Documents\Unit1.cpp</Transaction>
+    <Transaction>2023/06/26 18:31:33.829,C:\Users\jalej\Documents\UPMatriz.h=C:\Users\jalej\Documents\Unit1.h</Transaction>
+    <Transaction>2023/06/26 18:31:33.829,C:\Users\jalej\Documents\UPMatriz.cpp=C:\Users\jalej\Documents\Unit1.cpp</Transaction>
+    <Transaction>2023/06/26 18:32:43.616,C:\Users\jalej\Documents\estructura-de-datos\despues de reunion\TDAMATRIZ\UPMatriz.h=C:\Users\jalej\Documents\UPMatriz.h</Transaction>
+    <Transaction>2023/06/26 18:32:43.616,C:\Users\jalej\Documents\estructura-de-datos\despues de reunion\TDAMATRIZ\UPMatriz.cpp=C:\Users\jalej\Documents\UPMatriz.cpp</Transaction>
+    <Transaction>2023/06/26 18:32:59.429,C:\Users\jalej\Documents\estructura-de-datos\despues de reunion\TDAMATRIZ\TDAMatrizPCH1.h=C:\Users\jalej\Documents\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/26 18:32:59.443,C:\Users\jalej\Documents\estructura-de-datos\despues de reunion\TDAMATRIZ\Main.cpp=C:\Users\jalej\Documents\Main.cpp</Transaction>
+    <Transaction>2023/06/26 18:32:59.445,C:\Users\jalej\Documents\estructura-de-datos\despues de reunion\TDAMATRIZ\TDAMatriz.cbproj=C:\Users\jalej\Documents\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
