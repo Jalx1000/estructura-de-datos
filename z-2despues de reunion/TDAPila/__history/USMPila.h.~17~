@@ -1,0 +1,36 @@
+//---------------------------------------------------------------------------
+
+#ifndef USMPilaH
+#define USMPilaH
+
+//---------------------------------------------------------------------------
+#include <iomanip>
+#include <iostream>
+#include "SMemoria.h"
+using namespace std;
+
+typedef int tipo_elemento;
+//typedef CSMemoria* Direccion;
+
+struct Nodo
+{
+	tipo_elemento elemento;
+	Nodo* sig;
+};
+
+class USMPila
+{
+  private:
+//	Direccion* Tope;
+	CSMemoria* direccion;
+	int Tope;
+  public:
+    USMPila();
+    bool vacia();
+    void meter(tipo_elemento E);
+    void Sacar(tipo_elemento &E);
+    tipo_elemento cima();
+};
+
+#endif
+

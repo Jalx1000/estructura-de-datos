@@ -1,0 +1,35 @@
+//---------------------------------------------------------------------------
+
+#ifndef UPMatriz1H
+#define UPMatriz1H
+#include "CSMemoria.h"
+//---------------------------------------------------------------------------
+typedef int indice;
+
+struct Nodo{
+	int Fila;
+	int Col;
+	int dato;
+	Nodo *Sig;
+};
+
+	NodoM *Direccion;
+
+class PMatriz1{
+private:
+	Nodo PtrMatD;
+	int rep,dimf,dimc;
+	public:
+	PMatriz1();
+	void dimensionar(int df,int dc);
+int dimension_Fila()        ;
+
+	int dimension_columna();
+
+void       poner(indice f,indice c;int valor);
+
+       tipo_elemento Elemento(f,c:indice)
+
+	   definir_valor_repetido(valor:elemento)
+};
+#endif

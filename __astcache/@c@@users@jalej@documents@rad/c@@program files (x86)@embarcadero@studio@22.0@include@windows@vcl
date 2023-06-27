@@ -1,35 +1,41 @@
 //---------------------------------------------------------------------------
 
-#include <vcl.h>
-#pragma hdrstop
-
-#include "Unumeros.h"
+#ifndef CRSMatrizH
+#define CRSMatrizH
 //---------------------------------------------------------------------------
-#pragma package(smart_init)
-#pragma resource "*.dfm"
-TForm1 *Form1;
-//---------------------------------------------------------------------------
-__fastcall TForm1::TForm1(TComponent* Owner)
-	: TForm(Owner)
-{
-}
-//---------------------------------------------------------------------------
-byte MayorD(Cardinal x)
-{byte m;
-	if(x==0){
-	 m = x;
-	}else{
-	 m = MayorD(x/10);
-	}
-	return m;
-}
+#include <iostream>
+#include <string>
+using namespace std;
 
-int str(String x){
-	return StrToInt(x);
-}
+const int MAX = 100;
 
-void __fastcall TForm1::Button1Click(TObject *Sender)
-{
-	Edit2->Text = MayorD(str(Edit1->Text));
+class CRSMatriz{
+	typedef int elementos;
+	typedef int elemento;
+	typedef int indice;
 
-//---------------------------------------------------------------------------
+  private:
+
+	int vf;
+	int vc;
+	elementos vd[MAX];
+	int df, dc;
+	elemento repe;
+	int nt;
+
+	int existe_elemento(indice f, indice c);
+	int donde_insertar(indice f, indice c);
+
+//    bool verificarRango(indicef, indice c);
+//    void eliminar(indice f, indice c);
+  public:
+
+	CRSMatriz();
+	void dimensionar(int df, int dc);
+	int dimension_fila();
+	int dimension_columna();
+	void poner(indice f, indice c, elemento valor);
+	elemento Elemento(indice f, indice c);
+	void definir_valor_repetido(elemento valor);
+};
+#endif

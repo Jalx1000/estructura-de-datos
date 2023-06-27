@@ -1,0 +1,44 @@
+//---------------------------------------------------------------------------
+
+#ifndef CSRMatrizH
+#define CSRMatrizH
+//---------------------------------------------------------------------------
+const int MAX = 100;
+
+class CSRMatriz {
+    typedef int DATA_TYPE;
+private:
+    int Vf[MAX]; // Filas
+    int Vc[MAX]; // Columnas
+    DATA_TYPE Vd[MAX];  // elementos
+    int df; // Dimensión filas
+    int dc; // Dimensión columnas
+    int nt; // Términos
+    DATA_TYPE repe; // es el elemento que se repetirá en la matriz
+
+    int existe_elemento(int f, int c);
+
+    int donde_insertar(int f, int c);
+
+    bool verificarRango(int f, int c);
+
+    void eliminar(int f, int c);
+
+public:
+    CSRMatriz();
+
+    void dimensionar(int m, int n);
+
+    int dimension_fila();
+
+    int dimension_columna();
+
+    void poner(int f, int c, DATA_TYPE valor);
+
+    DATA_TYPE elemento(int f, int c);
+
+    void definir_valor_repetido(DATA_TYPE valor);
+
+    void mostrar();
+};
+#endif

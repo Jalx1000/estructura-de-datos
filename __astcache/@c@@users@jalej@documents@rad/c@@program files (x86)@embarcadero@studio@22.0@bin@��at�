@@ -1,0 +1,27 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "CRSMatriz.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+CSRMatriz::CSRMatriz(){
+    df = 0;
+    dc = 0;
+    repe = 0;
+	nt = 0;
+
+	for (int k=1; k < df+1; k++) {
+		vf[k]=1;
+	}
+}
+
+void CSRMatriz::dimensionar(int nf,int nc){
+	df=nf;
+	dc=nc;
+}
+
+int CSRMatriz::dimension_fila(){
+
+}

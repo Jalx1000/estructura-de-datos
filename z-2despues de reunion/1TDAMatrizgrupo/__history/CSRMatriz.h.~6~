@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------
+
+#ifndef CSRMatrizH
+#define CSRMatrizH
+//---------------------------------------------------------------------------
+const int MAX=100;
+
+class CSRMatriz{
+	typedef int elementos;
+	typedef int elemento;
+	private:
+
+	int vf;
+	int vc;
+	elementos vd[MAX];
+	int df,dc;
+	elemento repe;
+	int nt;
+
+	int existe_elemento(int f,int c);
+	int donde_insertar(int f,int c);
+	bool verificarRango(int f, int c);
+	void eliminar(int f, int c);
+
+	public:
+	CSRMatriz();
+	void dimensionar(int df,int dc);
+	int dimension_fila();
+	int dimension_columna();
+	void poner(int f,int c,elemento valor);
+    int definir_valor_repetido(elemento valor);
+};
+#endif

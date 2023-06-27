@@ -1,0 +1,23 @@
+//---------------------------------------------------------------------------
+
+#ifndef UVPilaH
+#define UVPilaH
+//---------------------------------------------------------------------------
+class UVPila
+{
+    typedef int direccion;
+    typedef int tipo_elemento;
+    int MAX = 100;
+  private:
+    tipo_elemento elementos[MAX];
+	direccion Tope;
+  public:
+	UVPila();
+	bool Vacia();
+	void Meter(tipo_elemento E);
+	void Sacar(tipo_elemento* E);
+	tipo_elemento cima();
+};
+
+#endif
+

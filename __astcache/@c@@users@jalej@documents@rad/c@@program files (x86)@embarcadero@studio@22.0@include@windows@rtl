@@ -1,41 +1,21 @@
-//---------------------------------------------------------------------------
+#include <tchar.h>
+#include <crsmatriz.h>
+#include <iostream>
+#include <iomanip>
+using namespace std;
 
-#include <vcl.h>
-#pragma hdrstop
-
-#include "Unumeros.h"
-//---------------------------------------------------------------------------
-#pragma package(smart_init)
-#pragma resource "*.dfm"
-
-TForm1 *Form1;
-//---------------------------------------------------------------------------
-__fastcall TForm1::TForm1(TComponent* Owner)
-	: TForm(Owner)
+int _tmain(int argc, _TCHAR* argv[])
 {
-}
-//---------------------------------------------------------------------------
-byte MayorD(Cardinal x)
-{byte m;
-	if(x==0){
-	 m = x;
-	}else{
-//	 cout<<"m: "<<m<<"x: "<<x<<endl;
-	 WriteLine("fds");
-	 m = MayorD(x/10);
-	 if(x%10>m){
-        m=x;
-	 }
-	}
-	return m;
+	CSRMatriz matriz;
+	matriz.CRSMatriz();
+    matriz.dimensionar(3, 3);
+	matriz.poner(1, 1, 4);
+	matriz.poner(2, 2, 7);
+	matriz.poner(3, 3, 2);
+	matriz.mostrar();
+
+
+    system("PAUSE");
+    return 0;
 }
 
-int str(String x){
-	return StrToInt(x);
-}
-
-void __fastcall TForm1::Button1Click(TObject *Sender)
-{
-	Edit2->Text = MayorD(str(Edit1->Text));
-}
-//---------------------------------------------------------------------------

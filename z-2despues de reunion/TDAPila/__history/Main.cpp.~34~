@@ -1,0 +1,30 @@
+#include <iostream>
+#include <tchar.h>
+#include <UVPila.h>
+#include <usmpila.h>
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+    //    UVPila miPila;
+    //    miPila.Meter(2);
+    //    miPila.Meter(5);
+    //	miPila.Meter(5);
+    //    miPila.MostrarPila(miPila);
+    //    tipo_elemento elemento;
+    //	miPila.Sacar(elemento);
+    //    miPila.MostrarPila(miPila);
+
+    USMPila pila;
+    pila.meter(10);
+	pila.meter(20);
+	pila.meter(30);
+	cout << pila.cima()<<endl;
+
+	int elementos;
+	pila.Sacar(elemento);
+	cout << elemento<<endl;
+
+    system("PAUSE");
+    return 0;
+}
+

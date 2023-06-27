@@ -1,14 +1,1 @@
-//---------------------------------------------------------------------------
-
-#pragma hdrstop
-
-#include "VLista.h"
-//---------------------------------------------------------------------------
-#pragma package(smart_init)
-
-VLista::VLista(){
-	this->longitud=0;
-
-
-}
-
+C:\Users\Public\Documents\Embarcadero\InterBase\redist\InterBase2020\IDE_spoof;C:\Program Files (x86)\Embarcadero\Studio\22.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\22.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\22.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\22.0\Bpl\Win64;C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\msys64\mingw64\bin;C:\Users\jalej\AppData\Local\Microsoft\WindowsApps;C:\Users\jalej\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jalej\AppData\Roaming\npm;C:\adb;C:\Users\jalej\AppData\Local\Microsoft\WindowsApps;;C:\Users\jalej\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jalej\AppData\Roam

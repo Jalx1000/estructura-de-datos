@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{5608D428-C58D-4DE8-9D74-8C163ED85481}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="TDAMatriz.cbproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="TDAMatriz">
+        <MSBuild Projects="TDAMatriz.cbproj"/>
+    </Target>
+    <Target Name="TDAMatriz:Clean">
+        <MSBuild Projects="TDAMatriz.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TDAMatriz:Make">
+        <MSBuild Projects="TDAMatriz.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="TDAMatriz"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="TDAMatriz:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="TDAMatriz:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

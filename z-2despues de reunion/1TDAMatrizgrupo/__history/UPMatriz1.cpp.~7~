@@ -1,0 +1,22 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "UPMatriz1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+PMatriz1::PMatriz1(){
+	int* PtrMatD = nullptr;
+	dimf=0;
+	dimc=0;
+	rep=0;
+}
+
+void PMatriz1::dimensionar(int nf,int nc){
+	dimf = nf;
+	dimc = nc;
+}
+
+int
+

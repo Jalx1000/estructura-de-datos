@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/26 19:43:13.000.991,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/26 19:43:14.000.004,=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/26 19:44:32.000.051,C:\Users\jalej\Documents\RAD\Main.cpp=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/26 19:55:31.000.638,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/26 19:55:39.000.568,C:\Users\jalej\Documents\RAD\UPMatriz.cpp=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/26 19:55:39.000.568,C:\Users\jalej\Documents\RAD\UPMatriz.h=C:\Users\jalej\Documents\RAD\Unit1.h</Transaction>
+    <Transaction>2023/06/26 20:04:31.000.465,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz.h=C:\Users\jalej\Documents\RAD\UPMatriz.h</Transaction>
+    <Transaction>2023/06/26 20:04:31.000.465,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz.cpp=C:\Users\jalej\Documents\RAD\UPMatriz.cpp</Transaction>
+    <Transaction>2023/06/26 20:04:45.000.022,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\Main.cpp=C:\Users\jalej\Documents\RAD\Main.cpp</Transaction>
+    <Transaction>2023/06/26 20:04:45.000.002,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\TDAMatrizPCH1.h=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/26 20:04:45.000.032,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\TDAMatriz.cbproj=C:\Users\jalej\Documents\RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/06/26 20:08:51.000.802,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz2.h=C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz.h</Transaction>
+    <Transaction>2023/06/26 20:08:51.000.802,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz2.cpp=C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz.cpp</Transaction>
+    <Transaction>2023/06/26 20:08:56.000.041,=C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\Unit1.cpp</Transaction>
+    <Transaction>2023/06/26 20:09:05.000.732,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz1.h=C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\Unit1.h</Transaction>
+    <Transaction>2023/06/26 20:09:05.000.732,C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\UPMatriz1.cpp=C:\Users\jalej\Documents\RAD\despues de reunion\TDAMatriz\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

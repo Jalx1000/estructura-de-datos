@@ -1,0 +1,32 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "USMPila.h"
+#include <iostream>
+using namespace std;
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+USMPila::USMPila()
+{
+    tope = NULL;
+}
+
+bool USMPila::vacia()
+{
+	return tope == NULL;
+}
+
+void USMPila::meter(tipo_elemento E)
+{
+    direccion_memoria aux = memoria.new_spacio("");
+    if (aux != NULO) {
+        memoria.poner_dato(aux, "elemento", E);
+        memoria.poner_dato(aux, "sig", tope);
+        tope = aux;
+    } else {
+		cout << "Error: Memoria insuficiente" << endl;
+	}
+}
+

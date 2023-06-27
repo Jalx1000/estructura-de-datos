@@ -1,0 +1,18 @@
+#include <iostream>
+#include <tchar.h>
+#include <crsmatriz.h>
+int _tmain(int argc, _TCHAR* argv[])
+{
+    //	CSRMatriz MiMatriz = new CSRMatriz();
+    CSRMatriz matriz;
+    matriz.dimensionar(3, 3);
+    matriz.poner(1, 1, 4);
+    matriz.poner(2, 2, 7);
+    matriz.poner(3, 3, 2);
+
+    matriz.mostrar_matriz();
+
+    system("PAUSE");
+    return 0;
+}
+
