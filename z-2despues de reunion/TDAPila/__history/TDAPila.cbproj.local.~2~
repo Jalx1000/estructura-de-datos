@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/27 01:22:18.000.100,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/27 01:22:18.000.110,=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/27 01:22:24.000.820,C:\Users\jalej\Documents\RAD\Main.cpp=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/27 02:08:58.000.917,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/27 02:09:10.000.273,C:\Users\jalej\Documents\RAD\UVPila.h=C:\Users\jalej\Documents\RAD\Unit1.h</Transaction>
+    <Transaction>2023/06/27 02:09:10.000.273,C:\Users\jalej\Documents\RAD\UVPila.cpp=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/27 02:12:09.000.732,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\UVPila.cpp=C:\Users\jalej\Documents\RAD\UVPila.cpp</Transaction>
+    <Transaction>2023/06/27 02:12:09.000.732,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\UVPila.h=C:\Users\jalej\Documents\RAD\UVPila.h</Transaction>
+    <Transaction>2023/06/27 02:12:21.000.638,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\Main.cpp=C:\Users\jalej\Documents\RAD\Main.cpp</Transaction>
+    <Transaction>2023/06/27 02:12:21.000.638,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\TDAPila.cbproj=C:\Users\jalej\Documents\RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/06/27 02:12:21.000.617,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\TDAPilaPCH1.h=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/27 03:50:35.000.199,=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\Unit1.cpp</Transaction>
+    <Transaction>2023/06/27 03:50:51.000.270,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\Unit1.h=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\USMemoria.h</Transaction>
+    <Transaction>2023/06/27 03:50:51.000.270,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\Unit1.cpp=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\USMemoria.cpp</Transaction>
+    <Transaction>2023/06/27 03:54:35.000.710,=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\Unit1.cpp</Transaction>
+    <Transaction>2023/06/27 03:54:46.000.754,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\Unit1.h=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\SMemoria.h</Transaction>
+    <Transaction>2023/06/27 03:54:46.000.754,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\Unit1.cpp=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\SMemoria.cpp</Transaction>
+    <Transaction>2023/06/27 03:59:33.000.991,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\USMemoria.h=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\USMPila.h</Transaction>
+    <Transaction>2023/06/27 03:59:33.000.991,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\USMemoria.cpp=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPila\USMPila.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

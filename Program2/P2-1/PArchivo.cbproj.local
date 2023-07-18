@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/17 18:40:53.000.477,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/17 18:40:53.000.450,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/17 20:29:18.000.375,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.h=C:\Users\jalej\Documentos\RAD\Program2\P2-1\uarchivo.h</Transaction>
+    <Transaction>2023/07/17 20:29:18.000.375,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\jalej\Documentos\RAD\Program2\P2-1\uarchivo.dfm</Transaction>
+    <Transaction>2023/07/17 20:29:18.000.375,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\jalej\Documentos\RAD\Program2\P2-1\uarchivo.cpp</Transaction>
+    <Transaction>2023/07/17 20:29:31.000.990,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\jalej\Documentos\RAD\Program2\P2-1\PArchivoPCH1.h</Transaction>
+    <Transaction>2023/07/17 20:29:32.000.023,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\jalej\Documentos\RAD\Program2\P2-1\PArchivo.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

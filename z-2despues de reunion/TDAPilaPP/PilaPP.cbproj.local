@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/07/12 17:46:28.063,=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/12 17:46:28.074,=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2023/07/12 17:47:15.381,C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Main.cpp=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2023/07/12 17:47:31.150,=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/12 17:47:42.120,C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\PilaPP.cpp=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/12 17:47:42.120,C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\PilaPP.h=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/07/12 17:49:42.360,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPilaPP\PilaPPPCH1.h=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/12 17:49:42.400,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPilaPP\Main.cpp=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2023/07/12 17:49:42.410,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPilaPP\PilaPP.h=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\PilaPP.h</Transaction>
+    <Transaction>2023/07/12 17:49:42.410,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPilaPP\PilaPP.cpp=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\PilaPP.cpp</Transaction>
+    <Transaction>2023/07/12 17:49:42.420,C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAPilaPP\PilaPP.cbproj=C:\Users\jalej\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,34 +1,54 @@
-//---------------------------------------------------------------------------
+﻿//---------------------------------------------------------------------------
 
-#ifndef USMPilaH
-#define USMPilaH
+#pragma hdrstop
 
-//---------------------------------------------------------------------------
-#include <iomanip>
+#include "USMPila.h"
 #include <iostream>
-#include "SMemoria.h"
 using namespace std;
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
 
-typedef int tipo_elemento;
-
-struct Nodo
+USMPila::USMPila()
 {
-    tipo_elemento elemento;
-    direccion_memoria sig;
-};
+    tope = NULO;
+}
 
-class USMPila
+bool USMPila::vacia()
 {
-  private:
-    CSMemoria memoria;
-    direccion_memoria tope;
-  public:
-    USMPila();
-    bool vacia();
-    void meter(tipo_elemento E);
-    void Sacar(tipo_elemento &E);
-    tipo_elemento cima();
-};
+    return tope == NULO;
+}
 
-#endif
+void USMPila::meter(tipo_elemento E)
+{
+    direccion_memoria aux = memoria.new_spacio("");
+    if (aux != NULO) {
+        memoria.poner_dato(aux, "->elemento", E);
+        memoria.poner_dato(aux, "->sig", tope);
+        tope = aux;
+    } else {
+        cout << "Error: Memoria insuficiente" << endl;
+    }
+}
+
+void USMPila::Sacar(tipo_elemento &E)
+{
+    if (vacia()) {
+        cout << "Error: La Pila esta vacia" << endl;
+    } else {
+        direccion_memoria x = tope;
+        E = memoria.obtenerDato(tope, "->elemento");
+        tope = memoria.obtenerDato(tope, "->sig");
+        memoria.Delete_espacio(x);
+    }
+}
+
+tipo_elemento USMPila::cima()
+{
+    if (vacia()) {
+        cout << "Error: La Pila esta vacia" << endl;
+        return -1;
+    } else {
+        return memoria.obtenerDato(tope, "->elemento");
+    }
+}
 

@@ -1,0 +1,64 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 442
+  ClientWidth = 420
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Edit1: TEdit
+    Left = 160
+    Top = 9
+    Width = 121
+    Height = 23
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object Edit2: TEdit
+    Left = 160
+    Top = 38
+    Width = 121
+    Height = 23
+    TabOrder = 1
+    Text = 'Edit2'
+  end
+  object De_ArchivoTXT_A_ASCII: TButton
+    Left = 0
+    Top = 8
+    Width = 145
+    Height = 25
+    Caption = 'De_ArchivoTXT_A_ASCII'
+    TabOrder = 2
+    OnClick = De_ArchivoTXT_A_ASCIIClick
+  end
+  object Button2: TButton
+    Left = 0
+    Top = 39
+    Width = 145
+    Height = 25
+    Caption = 'Cuenta vocales'
+    TabOrder = 3
+    OnClick = Button2Click
+  end
+  object StringGrid1: TStringGrid
+    Left = 16
+    Top = 112
+    Width = 320
+    Height = 65
+    ColCount = 1
+    DefaultColWidth = 30
+    FixedCols = 0
+    RowCount = 1
+    FixedRows = 0
+    TabOrder = 4
+  end
+  object OpenTextFileDialog1: TOpenTextFileDialog
+    Left = 336
+    Top = 8
+  end
+end

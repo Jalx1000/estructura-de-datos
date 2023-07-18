@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023-07-15 07:32:23.215,=D:\Marco\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023-07-15 07:32:23.267,=D:\Marco\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-07-15 07:39:12.526,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\PArchEstrPCH1.h=D:\Marco\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023-07-15 07:39:12.669,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\Unit1.dfm=D:\Marco\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023-07-15 07:39:12.669,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\Unit1.cpp=D:\Marco\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-07-15 07:39:12.669,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\Unit1.h=D:\Marco\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023-07-15 07:39:12.777,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\PArchEstr.cbproj=D:\Marco\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023-07-15 07:39:31.228,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\UArchEstr.h=E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\Unit1.h</Transaction>
+    <Transaction>2023-07-15 07:39:31.228,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\UArchEstr.dfm=E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\Unit1.dfm</Transaction>
+    <Transaction>2023-07-15 07:39:31.228,E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\UArchEstr.cpp=E:\CURSOS\000-\UAGRM\Ing-Inf\Sem-003\INF210-Programacion-II\004-clases-zoom\001-ejercicios\002-Alumnos.dat\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

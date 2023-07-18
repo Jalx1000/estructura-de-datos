@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/26 23:30:39.000.291,=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/06/26 23:30:39.000.276,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/26 23:30:59.000.471,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/06/26 23:31:09.000.676,C:\Users\jalej\Documents\RAD\Unit1.cpp=C:\Users\jalej\Documents\RAD\CRSMatriz.cpp</Transaction>
+    <Transaction>2023/06/26 23:31:09.000.676,C:\Users\jalej\Documents\RAD\Unit1.h=C:\Users\jalej\Documents\RAD\CRSMatriz.h</Transaction>
+    <Transaction>2023/06/26 23:31:15.000.451,C:\Users\jalej\Documents\RAD\File1.cpp=C:\Users\jalej\Documents\RAD\Main.cpp</Transaction>
+    <Transaction>2023/06/26 23:33:19.000.911,C:\Users\jalej\Documents\RAD\Project1PCH1.h=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAMatriz\TDAMatrizPCH1.h</Transaction>
+    <Transaction>2023/06/26 23:33:19.000.990,C:\Users\jalej\Documents\RAD\CRSMatriz.cpp=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAMatriz\CRSMatriz.cpp</Transaction>
+    <Transaction>2023/06/26 23:33:19.000.990,C:\Users\jalej\Documents\RAD\CRSMatriz.h=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAMatriz\CRSMatriz.h</Transaction>
+    <Transaction>2023/06/26 23:33:19.000.970,C:\Users\jalej\Documents\RAD\Main.cpp=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAMatriz\Main.cpp</Transaction>
+    <Transaction>2023/06/26 23:33:20.000.000,C:\Users\jalej\Documents\RAD\Project1.cbproj=C:\Users\jalej\Documents\RAD\z-2despues de reunion\TDAMatriz\TDAMatriz.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
