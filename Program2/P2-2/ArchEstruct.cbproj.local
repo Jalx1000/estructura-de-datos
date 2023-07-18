@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2023/07/17 23:40:52.029,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2023/07/17 23:40:52.055,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2023/07/17 23:52:47.034,C:\Users\jalej\Documentos\RAD\Program2\P2-2\ArchEstructPCH1.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2023/07/17 23:52:47.055,C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.dfm=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/07/17 23:52:47.055,C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2023/07/17 23:52:47.055,C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2023/07/17 23:52:47.077,C:\Users\jalej\Documentos\RAD\Program2\P2-2\ArchEstruct.cbproj=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>2023/07/17 23:52:55.886,C:\Users\jalej\Documentos\RAD\Program2\P2-2\UArch.cpp=C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.cpp</Transaction>
-    <Transaction>2023/07/17 23:52:55.886,C:\Users\jalej\Documentos\RAD\Program2\P2-2\UArch.dfm=C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.dfm</Transaction>
-    <Transaction>2023/07/17 23:52:55.886,C:\Users\jalej\Documentos\RAD\Program2\P2-2\UArch.h=C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.h</Transaction>
+	<Transactions>
+    <Transaction>2023/07/17 23:40:52.000.029,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/17 23:40:52.000.055,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/17 23:52:47.000.034,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\jalej\Documentos\RAD\Program2\P2-2\ArchEstructPCH1.h</Transaction>
+    <Transaction>2023/07/17 23:52:47.000.055,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.dfm</Transaction>
+    <Transaction>2023/07/17 23:52:47.000.055,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.h=C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.h</Transaction>
+    <Transaction>2023/07/17 23:52:47.000.055,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.cpp</Transaction>
+    <Transaction>2023/07/17 23:52:47.000.077,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\jalej\Documentos\RAD\Program2\P2-2\ArchEstruct.cbproj</Transaction>
+    <Transaction>2023/07/17 23:52:55.000.886,C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.h=C:\Users\jalej\Documentos\RAD\Program2\P2-2\UArch.h</Transaction>
+    <Transaction>2023/07/17 23:52:55.000.886,C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.dfm=C:\Users\jalej\Documentos\RAD\Program2\P2-2\UArch.dfm</Transaction>
+    <Transaction>2023/07/17 23:52:55.000.886,C:\Users\jalej\Documentos\RAD\Program2\P2-2\Unit1.cpp=C:\Users\jalej\Documentos\RAD\Program2\P2-2\UArch.cpp</Transaction>
   </Transactions>
 </BorlandProject>

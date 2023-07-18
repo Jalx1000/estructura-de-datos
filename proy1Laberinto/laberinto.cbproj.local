@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/01 14:42:01.000.839,=C:\Users\rogerroca\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/01/01 14:42:01.000.604,=C:\Users\rogerroca\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/01 14:43:26.000.048,C:\Users\rogerroca\code\inf210\proy1Laberinto\formLaberinto.cpp=C:\Users\rogerroca\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/01/01 14:43:26.000.048,C:\Users\rogerroca\code\inf210\proy1Laberinto\formLaberinto.dfm=C:\Users\rogerroca\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/01 14:43:26.000.048,C:\Users\rogerroca\code\inf210\proy1Laberinto\formLaberinto.h=C:\Users\rogerroca\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/01/01 14:44:03.000.106,C:\Users\rogerroca\code\inf210\proy1Laberinto\laberintoPCH1.h=C:\Users\rogerroca\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/01 14:44:13.000.906,C:\Users\rogerroca\code\inf210\proy1Laberinto\laberinto.cbproj=C:\Users\rogerroca\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
