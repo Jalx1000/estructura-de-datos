@@ -86,11 +86,10 @@ object Form1: TForm1
     Height = 25
     Caption = 'Grabar'
     TabOrder = 3
-    OnClick = Button1Click
   end
   object Button2: TButton
     Left = 102
-    Top = 312
+    Top = 296
     Width = 75
     Height = 25
     Caption = 'Eliminar'
@@ -98,7 +97,7 @@ object Form1: TForm1
   end
   object Button3: TButton
     Left = 102
-    Top = 359
+    Top = 327
     Width = 75
     Height = 25
     Caption = 'Reestructurar'

@@ -89,7 +89,7 @@ object Form1: TForm1
   end
   object Button2: TButton
     Left = 102
-    Top = 296
+    Top = 312
     Width = 75
     Height = 25
     Caption = 'Eliminar'
@@ -97,7 +97,7 @@ object Form1: TForm1
   end
   object Button3: TButton
     Left = 102
-    Top = 327
+    Top = 359
     Width = 75
     Height = 25
     Caption = 'Reestructurar'

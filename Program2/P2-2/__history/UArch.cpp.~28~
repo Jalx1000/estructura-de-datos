@@ -17,7 +17,7 @@ void TForm1::Mostrar(RegAlumno reg)
     Edit2->Text = reg.nom;
     Edit3->Text = reg.dir;
     MaskEdit1->Text =
-        IntToStr(reg.fecha.dia) + "/" + reg.fecha.mes + "/" + reg.fecha.aÃ±o;
+        IntToStr(reg.fecha.dia) + "/" + reg.fecha.mes + "/" + reg.fecha.año;
 }
 //---------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ void __fastcall TForm1::Edit1Change(TObject* Sender)
             Edit3->Text = reg.dir;
             MaskEdit1->Text = IntToStr(reg.fecha.dia) + '/' +
                               IntToStr(reg.fecha.mes) + '/' +
-                              IntToStr(reg.fecha.aÃ±o);
+                              IntToStr(reg.fecha.año);
             Edit2->SetFocus();
         } else { //sino, limpia la pantalla
             Edit2->Text = "";
@@ -59,11 +59,5 @@ void __fastcall TForm1::Edit1Change(TObject* Sender)
     f.close();
 }
 
-//---------------------------------------------------------------------------
-
-void __fastcall TForm1::Button1Click(TObject *Sender)
-{
-
-}
 //---------------------------------------------------------------------------
 
